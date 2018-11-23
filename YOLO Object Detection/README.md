@@ -1,6 +1,6 @@
 
 This project is done following Adrian Rosebrock's [Blog](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-
+I have perfromed the code only for Video stream from web cam. So i have made changes to code as per my requirement. 
 **Prerequisite**
 Use OpenCV 3
 
